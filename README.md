@@ -2,9 +2,11 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gs22059)](https://solved.ac/gs22059) \
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gs22059)](https://solved.ac/gs22059) \
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gs22059)](https://solved.ac/gs22059)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=gs22059)](https://solved.ac/gs22059)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=gs22059)](https://solved.ac/gs22059) \
+[![CodeForces Profile](https://cf.leed.at?id=gs22059)](https://codeforces.com/profile/gs22059)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annyeong-One&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Annyeong-One/Annyeong-One** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
