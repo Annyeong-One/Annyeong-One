@@ -1,7 +1,10 @@
 ### Hi there 👋
-
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gs22059)](https://solved.ac/gs22059)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gs22059)](https://solved.ac/gs22059) \
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gs22059)](https://solved.ac/gs22059) \
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=gs22059)](https://solved.ac/gs22059)
 
 <!--
 **Annyeong-One/Annyeong-One** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
